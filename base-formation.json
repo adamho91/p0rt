@@ -1,0 +1,3872 @@
+{
+  "version": 1,
+  "primitives": [
+    {
+      "id": "primitive-1764112244528-518242c2300cb-p0",
+      "name": "p0-01",
+      "category": "block",
+      "placements": [
+        {
+          "x": 2,
+          "y": 0,
+          "atomType": "p0",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 4,
+          "y": 0,
+          "atomType": "p0",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 6,
+          "y": 0,
+          "atomType": "p0",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 8,
+          "y": 2,
+          "atomType": "p0",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 8,
+          "y": 4,
+          "atomType": "p0",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 8,
+          "y": 6,
+          "atomType": "p0",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 0,
+          "y": 2,
+          "atomType": "p0",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 0,
+          "y": 4,
+          "atomType": "p0",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 0,
+          "y": 6,
+          "atomType": "p0",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 2,
+          "y": 8,
+          "atomType": "p0",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 4,
+          "y": 8,
+          "atomType": "p0",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 6,
+          "y": 8,
+          "atomType": "p0",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        }
+      ],
+      "createdAt": 1764112244528,
+      "label": "p0-01",
+      "atomCategory": "atom-p0",
+      "tags": [
+        "block",
+        "p0",
+        "atom",
+        "atom-p0"
+      ],
+      "content": "<g transform=\"translate(20, 0)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/></g></g><g transform=\"translate(40, 0)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/></g></g><g transform=\"translate(60, 0)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/></g></g><g transform=\"translate(80, 20)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/></g></g><g transform=\"translate(80, 40)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/></g></g><g transform=\"translate(80, 60)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/></g></g><g transform=\"translate(0, 20)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/></g></g><g transform=\"translate(0, 40)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/></g></g><g transform=\"translate(0, 60)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/></g></g><g transform=\"translate(20, 80)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/></g></g><g transform=\"translate(40, 80)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/></g></g><g transform=\"translate(60, 80)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/></g></g>"
+    },
+    {
+      "id": "primitive-1764113221725-660e80a90564-p0",
+      "name": "p0-04",
+      "category": "block",
+      "placements": [
+        {
+          "x": 4,
+          "y": 0,
+          "atomType": "p0",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 4,
+          "y": 2,
+          "atomType": "p0",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 6,
+          "y": 4,
+          "atomType": "p0",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 8,
+          "y": 4,
+          "atomType": "p0",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 0,
+          "y": 4,
+          "atomType": "p0",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 2,
+          "y": 4,
+          "atomType": "p0",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 4,
+          "y": 6,
+          "atomType": "p0",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 4,
+          "y": 8,
+          "atomType": "p0",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        }
+      ],
+      "createdAt": 1764113221725,
+      "label": "p0-04",
+      "atomCategory": "atom-p0",
+      "tags": [
+        "block",
+        "p0",
+        "atom",
+        "atom-p0"
+      ],
+      "content": "<g transform=\"translate(40, 0)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/></g></g><g transform=\"translate(40, 20)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/></g></g><g transform=\"translate(60, 40)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/></g></g><g transform=\"translate(80, 40)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/></g></g><g transform=\"translate(0, 40)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/></g></g><g transform=\"translate(20, 40)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/></g></g><g transform=\"translate(40, 60)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/></g></g><g transform=\"translate(40, 80)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/></g></g>"
+    },
+    {
+      "id": "primitive-1764113234569-bcca151d238fe8-p0",
+      "name": "p0-05",
+      "category": "block",
+      "placements": [
+        {
+          "x": 4,
+          "y": 4,
+          "atomType": "p0",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        }
+      ],
+      "createdAt": 1764113234569,
+      "label": "p0-05",
+      "atomCategory": "atom-p0",
+      "tags": [
+        "block",
+        "p0",
+        "atom",
+        "atom-p0"
+      ],
+      "content": "<g transform=\"translate(40, 40)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/></g></g>"
+    },
+    {
+      "id": "primitive-1764113251305-16586fb5c2d1c8-p0",
+      "name": "p0-06",
+      "category": "block",
+      "placements": [
+        {
+          "x": 2,
+          "y": 2,
+          "atomType": "p0",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 6,
+          "y": 2,
+          "atomType": "p0",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 2,
+          "y": 6,
+          "atomType": "p0",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 6,
+          "y": 6,
+          "atomType": "p0",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        }
+      ],
+      "createdAt": 1764113251305,
+      "label": "p0-06",
+      "atomCategory": "atom-p0",
+      "tags": [
+        "block",
+        "p0",
+        "atom",
+        "atom-p0"
+      ],
+      "content": "<g transform=\"translate(20, 20)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/></g></g><g transform=\"translate(60, 20)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/></g></g><g transform=\"translate(20, 60)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/></g></g><g transform=\"translate(60, 60)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/></g></g>"
+    },
+    {
+      "id": "primitive-1764113281246-8256483a96b24-p0",
+      "name": "p0-07",
+      "category": "block",
+      "placements": [
+        {
+          "x": 2,
+          "y": 2,
+          "atomType": "p0",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 4,
+          "y": 2,
+          "atomType": "p0",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 6,
+          "y": 2,
+          "atomType": "p0",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 2,
+          "y": 4,
+          "atomType": "p0",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 6,
+          "y": 4,
+          "atomType": "p0",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 6,
+          "y": 6,
+          "atomType": "p0",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 4,
+          "y": 6,
+          "atomType": "p0",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 2,
+          "y": 6,
+          "atomType": "p0",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        }
+      ],
+      "createdAt": 1764113281246,
+      "label": "p0-07",
+      "atomCategory": "atom-p0",
+      "tags": [
+        "block",
+        "p0",
+        "atom",
+        "atom-p0"
+      ],
+      "content": "<g transform=\"translate(20, 20)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/></g></g><g transform=\"translate(40, 20)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/></g></g><g transform=\"translate(60, 20)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/></g></g><g transform=\"translate(20, 40)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/></g></g><g transform=\"translate(60, 40)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/></g></g><g transform=\"translate(60, 60)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/></g></g><g transform=\"translate(40, 60)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/></g></g><g transform=\"translate(20, 60)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/></g></g>"
+    },
+    {
+      "id": "primitive-1764113578714-c4f74436b26e5-p0",
+      "name": "p0-08",
+      "category": "block",
+      "placements": [
+        {
+          "x": 4,
+          "y": 2,
+          "atomType": "p0",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 2,
+          "y": 4,
+          "atomType": "p0",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 6,
+          "y": 4,
+          "atomType": "p0",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 4,
+          "y": 6,
+          "atomType": "p0",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        }
+      ],
+      "createdAt": 1764113578714,
+      "label": "p0-08",
+      "atomCategory": "atom-p0",
+      "tags": [
+        "block",
+        "p0",
+        "atom",
+        "atom-p0"
+      ],
+      "content": "<g transform=\"translate(40, 20)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/></g></g><g transform=\"translate(20, 40)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/></g></g><g transform=\"translate(60, 40)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/></g></g><g transform=\"translate(40, 60)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/></g></g>"
+    },
+    {
+      "id": "primitive-1764113630923-47030f28ca1328-p0",
+      "name": "p0-09",
+      "category": "block",
+      "placements": [
+        {
+          "x": 0,
+          "y": 0,
+          "atomType": "p0",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 2,
+          "y": 0,
+          "atomType": "p0",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 4,
+          "y": 2,
+          "atomType": "p0",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 6,
+          "y": 0,
+          "atomType": "p0",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 8,
+          "y": 0,
+          "atomType": "p0",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 0,
+          "y": 8,
+          "atomType": "p0",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 2,
+          "y": 8,
+          "atomType": "p0",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 4,
+          "y": 6,
+          "atomType": "p0",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 6,
+          "y": 8,
+          "atomType": "p0",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 8,
+          "y": 8,
+          "atomType": "p0",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 0,
+          "y": 4,
+          "atomType": "p0",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 8,
+          "y": 4,
+          "atomType": "p0",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 0,
+          "y": 2,
+          "atomType": "p0",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 8,
+          "y": 2,
+          "atomType": "p0",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 0,
+          "y": 6,
+          "atomType": "p0",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 8,
+          "y": 6,
+          "atomType": "p0",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        }
+      ],
+      "createdAt": 1764113630923,
+      "label": "p0-09",
+      "atomCategory": "atom-p0",
+      "tags": [
+        "block",
+        "p0",
+        "atom",
+        "atom-p0"
+      ],
+      "content": "<g transform=\"translate(0, 0)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/></g></g><g transform=\"translate(20, 0)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/></g></g><g transform=\"translate(40, 20)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/></g></g><g transform=\"translate(60, 0)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/></g></g><g transform=\"translate(80, 0)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/></g></g><g transform=\"translate(0, 80)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/></g></g><g transform=\"translate(20, 80)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/></g></g><g transform=\"translate(40, 60)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/></g></g><g transform=\"translate(60, 80)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/></g></g><g transform=\"translate(80, 80)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/></g></g><g transform=\"translate(0, 40)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/></g></g><g transform=\"translate(80, 40)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/></g></g><g transform=\"translate(0, 20)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/></g></g><g transform=\"translate(80, 20)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/></g></g><g transform=\"translate(0, 60)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/></g></g><g transform=\"translate(80, 60)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/></g></g>"
+    },
+    {
+      "id": "primitive-1764114210925-9d42777274951-p0",
+      "name": "p0-bridge-1",
+      "category": "block",
+      "placements": [
+        {
+          "x": 4,
+          "y": 4,
+          "atomType": "p0",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 0,
+          "y": 4,
+          "atomType": "p0",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 2,
+          "y": 4,
+          "atomType": "p0",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 6,
+          "y": 4,
+          "atomType": "p0",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 8,
+          "y": 4,
+          "atomType": "p0",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        }
+      ],
+      "createdAt": 1764114210926,
+      "label": "p0-bridge-1",
+      "atomCategory": "atom-p0",
+      "tags": [
+        "block",
+        "p0",
+        "atom",
+        "atom-p0"
+      ],
+      "content": "<g transform=\"translate(40, 40)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/></g></g><g transform=\"translate(0, 40)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/></g></g><g transform=\"translate(20, 40)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/></g></g><g transform=\"translate(60, 40)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/></g></g><g transform=\"translate(80, 40)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/></g></g>"
+    },
+    {
+      "id": "primitive-1764114220823-fc18bed905eda8-p0",
+      "name": "p0-bridge-2",
+      "category": "block",
+      "placements": [
+        {
+          "x": 4,
+          "y": 0,
+          "atomType": "p0",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 4,
+          "y": 2,
+          "atomType": "p0",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 4,
+          "y": 4,
+          "atomType": "p0",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 4,
+          "y": 6,
+          "atomType": "p0",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 4,
+          "y": 8,
+          "atomType": "p0",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        }
+      ],
+      "createdAt": 1764114220823,
+      "label": "p0-bridge-2",
+      "atomCategory": "atom-p0",
+      "tags": [
+        "block",
+        "p0",
+        "atom",
+        "atom-p0"
+      ],
+      "content": "<g transform=\"translate(40, 0)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/></g></g><g transform=\"translate(40, 20)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/></g></g><g transform=\"translate(40, 40)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/></g></g><g transform=\"translate(40, 60)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/></g></g><g transform=\"translate(40, 80)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/></g></g>"
+    },
+    {
+      "id": "primitive-1764112244528-518242c2300cb",
+      "name": "p1-01",
+      "category": "block",
+      "placements": [
+        {
+          "x": 2,
+          "y": 0,
+          "atomType": "p1",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 4,
+          "y": 0,
+          "atomType": "p1",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 6,
+          "y": 0,
+          "atomType": "p1",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 8,
+          "y": 2,
+          "atomType": "p1",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 8,
+          "y": 4,
+          "atomType": "p1",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 8,
+          "y": 6,
+          "atomType": "p1",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 0,
+          "y": 2,
+          "atomType": "p1",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 0,
+          "y": 4,
+          "atomType": "p1",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 0,
+          "y": 6,
+          "atomType": "p1",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 2,
+          "y": 8,
+          "atomType": "p1",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 4,
+          "y": 8,
+          "atomType": "p1",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 6,
+          "y": 8,
+          "atomType": "p1",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        }
+      ],
+      "createdAt": 1764112244528,
+      "label": "p1-01",
+      "atomCategory": "atom-p1",
+      "tags": [
+        "block",
+        "p1",
+        "atom",
+        "atom-p1"
+      ],
+      "content": "<g transform=\"translate(20, 0)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M11.25 8.75H8.75V11.25H11.25V8.75Z\" fill=\"white\"/></g></g><g transform=\"translate(40, 0)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M11.25 8.75H8.75V11.25H11.25V8.75Z\" fill=\"white\"/></g></g><g transform=\"translate(60, 0)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M11.25 8.75H8.75V11.25H11.25V8.75Z\" fill=\"white\"/></g></g><g transform=\"translate(80, 20)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M11.25 8.75H8.75V11.25H11.25V8.75Z\" fill=\"white\"/></g></g><g transform=\"translate(80, 40)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M11.25 8.75H8.75V11.25H11.25V8.75Z\" fill=\"white\"/></g></g><g transform=\"translate(80, 60)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M11.25 8.75H8.75V11.25H11.25V8.75Z\" fill=\"white\"/></g></g><g transform=\"translate(0, 20)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M11.25 8.75H8.75V11.25H11.25V8.75Z\" fill=\"white\"/></g></g><g transform=\"translate(0, 40)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M11.25 8.75H8.75V11.25H11.25V8.75Z\" fill=\"white\"/></g></g><g transform=\"translate(0, 60)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M11.25 8.75H8.75V11.25H11.25V8.75Z\" fill=\"white\"/></g></g><g transform=\"translate(20, 80)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M11.25 8.75H8.75V11.25H11.25V8.75Z\" fill=\"white\"/></g></g><g transform=\"translate(40, 80)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M11.25 8.75H8.75V11.25H11.25V8.75Z\" fill=\"white\"/></g></g><g transform=\"translate(60, 80)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M11.25 8.75H8.75V11.25H11.25V8.75Z\" fill=\"white\"/></g></g>"
+    },
+    {
+      "id": "primitive-1764113221725-660e80a90564",
+      "name": "p1-04",
+      "category": "block",
+      "placements": [
+        {
+          "x": 4,
+          "y": 0,
+          "atomType": "p1",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 4,
+          "y": 2,
+          "atomType": "p1",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 6,
+          "y": 4,
+          "atomType": "p1",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 8,
+          "y": 4,
+          "atomType": "p1",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 0,
+          "y": 4,
+          "atomType": "p1",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 2,
+          "y": 4,
+          "atomType": "p1",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 4,
+          "y": 6,
+          "atomType": "p1",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 4,
+          "y": 8,
+          "atomType": "p1",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        }
+      ],
+      "createdAt": 1764113221725,
+      "label": "p1-04",
+      "atomCategory": "atom-p1",
+      "tags": [
+        "block",
+        "p1",
+        "atom",
+        "atom-p1"
+      ],
+      "content": "<g transform=\"translate(40, 0)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M11.25 8.75H8.75V11.25H11.25V8.75Z\" fill=\"white\"/></g></g><g transform=\"translate(40, 20)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M11.25 8.75H8.75V11.25H11.25V8.75Z\" fill=\"white\"/></g></g><g transform=\"translate(60, 40)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M11.25 8.75H8.75V11.25H11.25V8.75Z\" fill=\"white\"/></g></g><g transform=\"translate(80, 40)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M11.25 8.75H8.75V11.25H11.25V8.75Z\" fill=\"white\"/></g></g><g transform=\"translate(0, 40)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M11.25 8.75H8.75V11.25H11.25V8.75Z\" fill=\"white\"/></g></g><g transform=\"translate(20, 40)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M11.25 8.75H8.75V11.25H11.25V8.75Z\" fill=\"white\"/></g></g><g transform=\"translate(40, 60)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M11.25 8.75H8.75V11.25H11.25V8.75Z\" fill=\"white\"/></g></g><g transform=\"translate(40, 80)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M11.25 8.75H8.75V11.25H11.25V8.75Z\" fill=\"white\"/></g></g>"
+    },
+    {
+      "id": "primitive-1764113234569-bcca151d238fe8",
+      "name": "p1-05",
+      "category": "block",
+      "placements": [
+        {
+          "x": 4,
+          "y": 4,
+          "atomType": "p1",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        }
+      ],
+      "createdAt": 1764113234569,
+      "label": "p1-05",
+      "atomCategory": "atom-p1",
+      "tags": [
+        "block",
+        "p1",
+        "atom",
+        "atom-p1"
+      ],
+      "content": "<g transform=\"translate(40, 40)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M11.25 8.75H8.75V11.25H11.25V8.75Z\" fill=\"white\"/></g></g>"
+    },
+    {
+      "id": "primitive-1764113251305-16586fb5c2d1c8",
+      "name": "p1-06",
+      "category": "block",
+      "placements": [
+        {
+          "x": 2,
+          "y": 2,
+          "atomType": "p1",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 6,
+          "y": 2,
+          "atomType": "p1",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 2,
+          "y": 6,
+          "atomType": "p1",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 6,
+          "y": 6,
+          "atomType": "p1",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        }
+      ],
+      "createdAt": 1764113251305,
+      "label": "p1-06",
+      "atomCategory": "atom-p1",
+      "tags": [
+        "block",
+        "p1",
+        "atom",
+        "atom-p1"
+      ],
+      "content": "<g transform=\"translate(20, 20)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M11.25 8.75H8.75V11.25H11.25V8.75Z\" fill=\"white\"/></g></g><g transform=\"translate(60, 20)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M11.25 8.75H8.75V11.25H11.25V8.75Z\" fill=\"white\"/></g></g><g transform=\"translate(20, 60)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M11.25 8.75H8.75V11.25H11.25V8.75Z\" fill=\"white\"/></g></g><g transform=\"translate(60, 60)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M11.25 8.75H8.75V11.25H11.25V8.75Z\" fill=\"white\"/></g></g>"
+    },
+    {
+      "id": "primitive-1764113281246-8256483a96b24",
+      "name": "p1-07",
+      "category": "block",
+      "placements": [
+        {
+          "x": 2,
+          "y": 2,
+          "atomType": "p1",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 4,
+          "y": 2,
+          "atomType": "p1",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 6,
+          "y": 2,
+          "atomType": "p1",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 2,
+          "y": 4,
+          "atomType": "p1",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 6,
+          "y": 4,
+          "atomType": "p1",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 6,
+          "y": 6,
+          "atomType": "p1",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 4,
+          "y": 6,
+          "atomType": "p1",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 2,
+          "y": 6,
+          "atomType": "p1",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        }
+      ],
+      "createdAt": 1764113281246,
+      "label": "p1-07",
+      "atomCategory": "atom-p1",
+      "tags": [
+        "block",
+        "p1",
+        "atom",
+        "atom-p1"
+      ],
+      "content": "<g transform=\"translate(20, 20)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M11.25 8.75H8.75V11.25H11.25V8.75Z\" fill=\"white\"/></g></g><g transform=\"translate(40, 20)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M11.25 8.75H8.75V11.25H11.25V8.75Z\" fill=\"white\"/></g></g><g transform=\"translate(60, 20)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M11.25 8.75H8.75V11.25H11.25V8.75Z\" fill=\"white\"/></g></g><g transform=\"translate(20, 40)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M11.25 8.75H8.75V11.25H11.25V8.75Z\" fill=\"white\"/></g></g><g transform=\"translate(60, 40)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M11.25 8.75H8.75V11.25H11.25V8.75Z\" fill=\"white\"/></g></g><g transform=\"translate(60, 60)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M11.25 8.75H8.75V11.25H11.25V8.75Z\" fill=\"white\"/></g></g><g transform=\"translate(40, 60)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M11.25 8.75H8.75V11.25H11.25V8.75Z\" fill=\"white\"/></g></g><g transform=\"translate(20, 60)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M11.25 8.75H8.75V11.25H11.25V8.75Z\" fill=\"white\"/></g></g>"
+    },
+    {
+      "id": "primitive-1764113578714-c4f74436b26e5",
+      "name": "p1-08",
+      "category": "block",
+      "placements": [
+        {
+          "x": 4,
+          "y": 2,
+          "atomType": "p1",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 2,
+          "y": 4,
+          "atomType": "p1",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 6,
+          "y": 4,
+          "atomType": "p1",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 4,
+          "y": 6,
+          "atomType": "p1",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        }
+      ],
+      "createdAt": 1764113578714,
+      "label": "p1-08",
+      "atomCategory": "atom-p1",
+      "tags": [
+        "block",
+        "p1",
+        "atom",
+        "atom-p1"
+      ],
+      "content": "<g transform=\"translate(40, 20)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M11.25 8.75H8.75V11.25H11.25V8.75Z\" fill=\"white\"/></g></g><g transform=\"translate(20, 40)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M11.25 8.75H8.75V11.25H11.25V8.75Z\" fill=\"white\"/></g></g><g transform=\"translate(60, 40)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M11.25 8.75H8.75V11.25H11.25V8.75Z\" fill=\"white\"/></g></g><g transform=\"translate(40, 60)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M11.25 8.75H8.75V11.25H11.25V8.75Z\" fill=\"white\"/></g></g>"
+    },
+    {
+      "id": "primitive-1764113630923-47030f28ca1328",
+      "name": "p1-09",
+      "category": "block",
+      "placements": [
+        {
+          "x": 0,
+          "y": 0,
+          "atomType": "p1",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 2,
+          "y": 0,
+          "atomType": "p1",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 4,
+          "y": 2,
+          "atomType": "p1",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 6,
+          "y": 0,
+          "atomType": "p1",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 8,
+          "y": 0,
+          "atomType": "p1",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 0,
+          "y": 8,
+          "atomType": "p1",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 2,
+          "y": 8,
+          "atomType": "p1",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 4,
+          "y": 6,
+          "atomType": "p1",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 6,
+          "y": 8,
+          "atomType": "p1",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 8,
+          "y": 8,
+          "atomType": "p1",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 0,
+          "y": 4,
+          "atomType": "p1",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 8,
+          "y": 4,
+          "atomType": "p1",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 0,
+          "y": 2,
+          "atomType": "p1",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 8,
+          "y": 2,
+          "atomType": "p1",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 0,
+          "y": 6,
+          "atomType": "p1",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 8,
+          "y": 6,
+          "atomType": "p1",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        }
+      ],
+      "createdAt": 1764113630923,
+      "label": "p1-09",
+      "atomCategory": "atom-p1",
+      "tags": [
+        "block",
+        "p1",
+        "atom",
+        "atom-p1"
+      ],
+      "content": "<g transform=\"translate(0, 0)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M11.25 8.75H8.75V11.25H11.25V8.75Z\" fill=\"white\"/></g></g><g transform=\"translate(20, 0)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M11.25 8.75H8.75V11.25H11.25V8.75Z\" fill=\"white\"/></g></g><g transform=\"translate(40, 20)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M11.25 8.75H8.75V11.25H11.25V8.75Z\" fill=\"white\"/></g></g><g transform=\"translate(60, 0)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M11.25 8.75H8.75V11.25H11.25V8.75Z\" fill=\"white\"/></g></g><g transform=\"translate(80, 0)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M11.25 8.75H8.75V11.25H11.25V8.75Z\" fill=\"white\"/></g></g><g transform=\"translate(0, 80)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M11.25 8.75H8.75V11.25H11.25V8.75Z\" fill=\"white\"/></g></g><g transform=\"translate(20, 80)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M11.25 8.75H8.75V11.25H11.25V8.75Z\" fill=\"white\"/></g></g><g transform=\"translate(40, 60)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M11.25 8.75H8.75V11.25H11.25V8.75Z\" fill=\"white\"/></g></g><g transform=\"translate(60, 80)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M11.25 8.75H8.75V11.25H11.25V8.75Z\" fill=\"white\"/></g></g><g transform=\"translate(80, 80)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M11.25 8.75H8.75V11.25H11.25V8.75Z\" fill=\"white\"/></g></g><g transform=\"translate(0, 40)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M11.25 8.75H8.75V11.25H11.25V8.75Z\" fill=\"white\"/></g></g><g transform=\"translate(80, 40)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M11.25 8.75H8.75V11.25H11.25V8.75Z\" fill=\"white\"/></g></g><g transform=\"translate(0, 20)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M11.25 8.75H8.75V11.25H11.25V8.75Z\" fill=\"white\"/></g></g><g transform=\"translate(80, 20)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M11.25 8.75H8.75V11.25H11.25V8.75Z\" fill=\"white\"/></g></g><g transform=\"translate(0, 60)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M11.25 8.75H8.75V11.25H11.25V8.75Z\" fill=\"white\"/></g></g><g transform=\"translate(80, 60)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M11.25 8.75H8.75V11.25H11.25V8.75Z\" fill=\"white\"/></g></g>"
+    },
+    {
+      "id": "primitive-1764114210925-9d42777274951",
+      "name": "p1-bridge-1",
+      "category": "block",
+      "placements": [
+        {
+          "x": 4,
+          "y": 4,
+          "atomType": "p1",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 0,
+          "y": 4,
+          "atomType": "p1",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 2,
+          "y": 4,
+          "atomType": "p1",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 6,
+          "y": 4,
+          "atomType": "p1",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 8,
+          "y": 4,
+          "atomType": "p1",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        }
+      ],
+      "createdAt": 1764114210926,
+      "label": "p1-bridge-1",
+      "atomCategory": "atom-p1",
+      "tags": [
+        "block",
+        "p1",
+        "atom",
+        "atom-p1"
+      ],
+      "content": "<g transform=\"translate(40, 40)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M11.25 8.75H8.75V11.25H11.25V8.75Z\" fill=\"white\"/></g></g><g transform=\"translate(0, 40)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M11.25 8.75H8.75V11.25H11.25V8.75Z\" fill=\"white\"/></g></g><g transform=\"translate(20, 40)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M11.25 8.75H8.75V11.25H11.25V8.75Z\" fill=\"white\"/></g></g><g transform=\"translate(60, 40)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M11.25 8.75H8.75V11.25H11.25V8.75Z\" fill=\"white\"/></g></g><g transform=\"translate(80, 40)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M11.25 8.75H8.75V11.25H11.25V8.75Z\" fill=\"white\"/></g></g>"
+    },
+    {
+      "id": "primitive-1764114220823-fc18bed905eda8",
+      "name": "p1-bridge-2",
+      "category": "block",
+      "placements": [
+        {
+          "x": 4,
+          "y": 0,
+          "atomType": "p1",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 4,
+          "y": 2,
+          "atomType": "p1",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 4,
+          "y": 4,
+          "atomType": "p1",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 4,
+          "y": 6,
+          "atomType": "p1",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 4,
+          "y": 8,
+          "atomType": "p1",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        }
+      ],
+      "createdAt": 1764114220823,
+      "label": "p1-bridge-2",
+      "atomCategory": "atom-p1",
+      "tags": [
+        "block",
+        "p1",
+        "atom",
+        "atom-p1"
+      ],
+      "content": "<g transform=\"translate(40, 0)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M11.25 8.75H8.75V11.25H11.25V8.75Z\" fill=\"white\"/></g></g><g transform=\"translate(40, 20)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M11.25 8.75H8.75V11.25H11.25V8.75Z\" fill=\"white\"/></g></g><g transform=\"translate(40, 40)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M11.25 8.75H8.75V11.25H11.25V8.75Z\" fill=\"white\"/></g></g><g transform=\"translate(40, 60)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M11.25 8.75H8.75V11.25H11.25V8.75Z\" fill=\"white\"/></g></g><g transform=\"translate(40, 80)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M11.25 8.75H8.75V11.25H11.25V8.75Z\" fill=\"white\"/></g></g>"
+    },
+    {
+      "id": "primitive-1764112244528-518242c2300cb-p2",
+      "name": "p2-01",
+      "category": "block",
+      "placements": [
+        {
+          "x": 2,
+          "y": 0,
+          "atomType": "p2",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 4,
+          "y": 0,
+          "atomType": "p2",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 6,
+          "y": 0,
+          "atomType": "p2",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 8,
+          "y": 2,
+          "atomType": "p2",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 8,
+          "y": 4,
+          "atomType": "p2",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 8,
+          "y": 6,
+          "atomType": "p2",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 0,
+          "y": 2,
+          "atomType": "p2",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 0,
+          "y": 4,
+          "atomType": "p2",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 0,
+          "y": 6,
+          "atomType": "p2",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 2,
+          "y": 8,
+          "atomType": "p2",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 4,
+          "y": 8,
+          "atomType": "p2",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 6,
+          "y": 8,
+          "atomType": "p2",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        }
+      ],
+      "createdAt": 1764112244528,
+      "label": "p2-01",
+      "atomCategory": "atom-p2",
+      "tags": [
+        "block",
+        "p2",
+        "atom",
+        "atom-p2"
+      ],
+      "content": "<g transform=\"translate(20, 0)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M12.5 7.5H7.5V12.5H12.5V7.5Z\" fill=\"white\"/></g></g><g transform=\"translate(40, 0)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M12.5 7.5H7.5V12.5H12.5V7.5Z\" fill=\"white\"/></g></g><g transform=\"translate(60, 0)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M12.5 7.5H7.5V12.5H12.5V7.5Z\" fill=\"white\"/></g></g><g transform=\"translate(80, 20)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M12.5 7.5H7.5V12.5H12.5V7.5Z\" fill=\"white\"/></g></g><g transform=\"translate(80, 40)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M12.5 7.5H7.5V12.5H12.5V7.5Z\" fill=\"white\"/></g></g><g transform=\"translate(80, 60)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M12.5 7.5H7.5V12.5H12.5V7.5Z\" fill=\"white\"/></g></g><g transform=\"translate(0, 20)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M12.5 7.5H7.5V12.5H12.5V7.5Z\" fill=\"white\"/></g></g><g transform=\"translate(0, 40)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M12.5 7.5H7.5V12.5H12.5V7.5Z\" fill=\"white\"/></g></g><g transform=\"translate(0, 60)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M12.5 7.5H7.5V12.5H12.5V7.5Z\" fill=\"white\"/></g></g><g transform=\"translate(20, 80)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M12.5 7.5H7.5V12.5H12.5V7.5Z\" fill=\"white\"/></g></g><g transform=\"translate(40, 80)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M12.5 7.5H7.5V12.5H12.5V7.5Z\" fill=\"white\"/></g></g><g transform=\"translate(60, 80)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M12.5 7.5H7.5V12.5H12.5V7.5Z\" fill=\"white\"/></g></g>"
+    },
+    {
+      "id": "primitive-1764112381683-7f3d28c23f865",
+      "name": "p2-02",
+      "category": "block",
+      "placements": [
+        {
+          "x": 2,
+          "y": 2,
+          "atomType": "p2",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 4,
+          "y": 2,
+          "atomType": "p2",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 6,
+          "y": 2,
+          "atomType": "p2",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 2,
+          "y": 4,
+          "atomType": "p2",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 6,
+          "y": 4,
+          "atomType": "p2",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 6,
+          "y": 6,
+          "atomType": "p2",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 4,
+          "y": 6,
+          "atomType": "p2",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 2,
+          "y": 6,
+          "atomType": "p2",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 8,
+          "y": 0,
+          "atomType": "p2",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 0,
+          "y": 0,
+          "atomType": "p2",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 0,
+          "y": 8,
+          "atomType": "p2",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 8,
+          "y": 8,
+          "atomType": "p2",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        }
+      ],
+      "createdAt": 1764112381683,
+      "label": "p2-02",
+      "atomCategory": "atom-p2",
+      "tags": [
+        "block",
+        "p2",
+        "atom",
+        "atom-p2"
+      ],
+      "content": "<g transform=\"translate(20, 20)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M12.5 7.5H7.5V12.5H12.5V7.5Z\" fill=\"white\"/></g></g><g transform=\"translate(40, 20)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M12.5 7.5H7.5V12.5H12.5V7.5Z\" fill=\"white\"/></g></g><g transform=\"translate(60, 20)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M12.5 7.5H7.5V12.5H12.5V7.5Z\" fill=\"white\"/></g></g><g transform=\"translate(20, 40)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M12.5 7.5H7.5V12.5H12.5V7.5Z\" fill=\"white\"/></g></g><g transform=\"translate(60, 40)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M12.5 7.5H7.5V12.5H12.5V7.5Z\" fill=\"white\"/></g></g><g transform=\"translate(60, 60)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M12.5 7.5H7.5V12.5H12.5V7.5Z\" fill=\"white\"/></g></g><g transform=\"translate(40, 60)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M12.5 7.5H7.5V12.5H12.5V7.5Z\" fill=\"white\"/></g></g><g transform=\"translate(20, 60)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M12.5 7.5H7.5V12.5H12.5V7.5Z\" fill=\"white\"/></g></g><g transform=\"translate(80, 0)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M12.5 7.5H7.5V12.5H12.5V7.5Z\" fill=\"white\"/></g></g><g transform=\"translate(0, 0)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M12.5 7.5H7.5V12.5H12.5V7.5Z\" fill=\"white\"/></g></g><g transform=\"translate(0, 80)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M12.5 7.5H7.5V12.5H12.5V7.5Z\" fill=\"white\"/></g></g><g transform=\"translate(80, 80)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M12.5 7.5H7.5V12.5H12.5V7.5Z\" fill=\"white\"/></g></g>"
+    },
+    {
+      "id": "primitive-1764112463985-49d3d27faae68",
+      "name": "p2-03",
+      "category": "block",
+      "placements": [
+        {
+          "x": 2,
+          "y": 0,
+          "atomType": "p2",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 4,
+          "y": 0,
+          "atomType": "p2",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 6,
+          "y": 0,
+          "atomType": "p2",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 0,
+          "y": 2,
+          "atomType": "p2",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 2,
+          "y": 2,
+          "atomType": "p2",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 4,
+          "y": 2,
+          "atomType": "p2",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 6,
+          "y": 2,
+          "atomType": "p2",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 8,
+          "y": 2,
+          "atomType": "p2",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 0,
+          "y": 4,
+          "atomType": "p2",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 2,
+          "y": 4,
+          "atomType": "p2",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 4,
+          "y": 4,
+          "atomType": "p2",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 6,
+          "y": 4,
+          "atomType": "p2",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 8,
+          "y": 4,
+          "atomType": "p2",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 0,
+          "y": 6,
+          "atomType": "p2",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 2,
+          "y": 6,
+          "atomType": "p2",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 4,
+          "y": 6,
+          "atomType": "p2",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 6,
+          "y": 6,
+          "atomType": "p2",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 8,
+          "y": 6,
+          "atomType": "p2",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 2,
+          "y": 8,
+          "atomType": "p2",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 4,
+          "y": 8,
+          "atomType": "p2",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 6,
+          "y": 8,
+          "atomType": "p2",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        }
+      ],
+      "createdAt": 1764112463985,
+      "label": "p2-03",
+      "atomCategory": "atom-p2",
+      "tags": [
+        "block",
+        "p2",
+        "atom",
+        "atom-p2"
+      ],
+      "content": "<g transform=\"translate(20, 0)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M12.5 7.5H7.5V12.5H12.5V7.5Z\" fill=\"white\"/></g></g><g transform=\"translate(40, 0)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M12.5 7.5H7.5V12.5H12.5V7.5Z\" fill=\"white\"/></g></g><g transform=\"translate(60, 0)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M12.5 7.5H7.5V12.5H12.5V7.5Z\" fill=\"white\"/></g></g><g transform=\"translate(0, 20)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M12.5 7.5H7.5V12.5H12.5V7.5Z\" fill=\"white\"/></g></g><g transform=\"translate(20, 20)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M12.5 7.5H7.5V12.5H12.5V7.5Z\" fill=\"white\"/></g></g><g transform=\"translate(40, 20)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M12.5 7.5H7.5V12.5H12.5V7.5Z\" fill=\"white\"/></g></g><g transform=\"translate(60, 20)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M12.5 7.5H7.5V12.5H12.5V7.5Z\" fill=\"white\"/></g></g><g transform=\"translate(80, 20)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M12.5 7.5H7.5V12.5H12.5V7.5Z\" fill=\"white\"/></g></g><g transform=\"translate(0, 40)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M12.5 7.5H7.5V12.5H12.5V7.5Z\" fill=\"white\"/></g></g><g transform=\"translate(20, 40)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M12.5 7.5H7.5V12.5H12.5V7.5Z\" fill=\"white\"/></g></g><g transform=\"translate(40, 40)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M12.5 7.5H7.5V12.5H12.5V7.5Z\" fill=\"white\"/></g></g><g transform=\"translate(60, 40)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M12.5 7.5H7.5V12.5H12.5V7.5Z\" fill=\"white\"/></g></g><g transform=\"translate(80, 40)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M12.5 7.5H7.5V12.5H12.5V7.5Z\" fill=\"white\"/></g></g><g transform=\"translate(0, 60)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M12.5 7.5H7.5V12.5H12.5V7.5Z\" fill=\"white\"/></g></g><g transform=\"translate(20, 60)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M12.5 7.5H7.5V12.5H12.5V7.5Z\" fill=\"white\"/></g></g><g transform=\"translate(40, 60)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M12.5 7.5H7.5V12.5H12.5V7.5Z\" fill=\"white\"/></g></g><g transform=\"translate(60, 60)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M12.5 7.5H7.5V12.5H12.5V7.5Z\" fill=\"white\"/></g></g><g transform=\"translate(80, 60)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M12.5 7.5H7.5V12.5H12.5V7.5Z\" fill=\"white\"/></g></g><g transform=\"translate(20, 80)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M12.5 7.5H7.5V12.5H12.5V7.5Z\" fill=\"white\"/></g></g><g transform=\"translate(40, 80)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M12.5 7.5H7.5V12.5H12.5V7.5Z\" fill=\"white\"/></g></g><g transform=\"translate(60, 80)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M12.5 7.5H7.5V12.5H12.5V7.5Z\" fill=\"white\"/></g></g>"
+    },
+    {
+      "id": "primitive-1764113221725-660e80a90564-p2",
+      "name": "p2-04",
+      "category": "block",
+      "placements": [
+        {
+          "x": 4,
+          "y": 0,
+          "atomType": "p2",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 4,
+          "y": 2,
+          "atomType": "p2",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 6,
+          "y": 4,
+          "atomType": "p2",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 8,
+          "y": 4,
+          "atomType": "p2",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 0,
+          "y": 4,
+          "atomType": "p2",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 2,
+          "y": 4,
+          "atomType": "p2",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 4,
+          "y": 6,
+          "atomType": "p2",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 4,
+          "y": 8,
+          "atomType": "p2",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        }
+      ],
+      "createdAt": 1764113221725,
+      "label": "p2-04",
+      "atomCategory": "atom-p2",
+      "tags": [
+        "block",
+        "p2",
+        "atom",
+        "atom-p2"
+      ],
+      "content": "<g transform=\"translate(40, 0)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M12.5 7.5H7.5V12.5H12.5V7.5Z\" fill=\"white\"/></g></g><g transform=\"translate(40, 20)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M12.5 7.5H7.5V12.5H12.5V7.5Z\" fill=\"white\"/></g></g><g transform=\"translate(60, 40)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M12.5 7.5H7.5V12.5H12.5V7.5Z\" fill=\"white\"/></g></g><g transform=\"translate(80, 40)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M12.5 7.5H7.5V12.5H12.5V7.5Z\" fill=\"white\"/></g></g><g transform=\"translate(0, 40)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M12.5 7.5H7.5V12.5H12.5V7.5Z\" fill=\"white\"/></g></g><g transform=\"translate(20, 40)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M12.5 7.5H7.5V12.5H12.5V7.5Z\" fill=\"white\"/></g></g><g transform=\"translate(40, 60)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M12.5 7.5H7.5V12.5H12.5V7.5Z\" fill=\"white\"/></g></g><g transform=\"translate(40, 80)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M12.5 7.5H7.5V12.5H12.5V7.5Z\" fill=\"white\"/></g></g>"
+    },
+    {
+      "id": "primitive-1764113234569-bcca151d238fe8-p2",
+      "name": "p2-05",
+      "category": "block",
+      "placements": [
+        {
+          "x": 4,
+          "y": 4,
+          "atomType": "p2",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        }
+      ],
+      "createdAt": 1764113234569,
+      "label": "p2-05",
+      "atomCategory": "atom-p2",
+      "tags": [
+        "block",
+        "p2",
+        "atom",
+        "atom-p2"
+      ],
+      "content": "<g transform=\"translate(40, 40)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M12.5 7.5H7.5V12.5H12.5V7.5Z\" fill=\"white\"/></g></g>"
+    },
+    {
+      "id": "primitive-1764113251305-16586fb5c2d1c8-p2",
+      "name": "p2-06",
+      "category": "block",
+      "placements": [
+        {
+          "x": 2,
+          "y": 2,
+          "atomType": "p2",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 6,
+          "y": 2,
+          "atomType": "p2",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 2,
+          "y": 6,
+          "atomType": "p2",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 6,
+          "y": 6,
+          "atomType": "p2",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        }
+      ],
+      "createdAt": 1764113251305,
+      "label": "p2-06",
+      "atomCategory": "atom-p2",
+      "tags": [
+        "block",
+        "p2",
+        "atom",
+        "atom-p2"
+      ],
+      "content": "<g transform=\"translate(20, 20)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M12.5 7.5H7.5V12.5H12.5V7.5Z\" fill=\"white\"/></g></g><g transform=\"translate(60, 20)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M12.5 7.5H7.5V12.5H12.5V7.5Z\" fill=\"white\"/></g></g><g transform=\"translate(20, 60)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M12.5 7.5H7.5V12.5H12.5V7.5Z\" fill=\"white\"/></g></g><g transform=\"translate(60, 60)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M12.5 7.5H7.5V12.5H12.5V7.5Z\" fill=\"white\"/></g></g>"
+    },
+    {
+      "id": "primitive-1764113281246-8256483a96b24-p2",
+      "name": "p2-07",
+      "category": "block",
+      "placements": [
+        {
+          "x": 2,
+          "y": 2,
+          "atomType": "p2",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 4,
+          "y": 2,
+          "atomType": "p2",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 6,
+          "y": 2,
+          "atomType": "p2",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 2,
+          "y": 4,
+          "atomType": "p2",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 6,
+          "y": 4,
+          "atomType": "p2",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 6,
+          "y": 6,
+          "atomType": "p2",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 4,
+          "y": 6,
+          "atomType": "p2",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 2,
+          "y": 6,
+          "atomType": "p2",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        }
+      ],
+      "createdAt": 1764113281246,
+      "label": "p2-07",
+      "atomCategory": "atom-p2",
+      "tags": [
+        "block",
+        "p2",
+        "atom",
+        "atom-p2"
+      ],
+      "content": "<g transform=\"translate(20, 20)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M12.5 7.5H7.5V12.5H12.5V7.5Z\" fill=\"white\"/></g></g><g transform=\"translate(40, 20)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M12.5 7.5H7.5V12.5H12.5V7.5Z\" fill=\"white\"/></g></g><g transform=\"translate(60, 20)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M12.5 7.5H7.5V12.5H12.5V7.5Z\" fill=\"white\"/></g></g><g transform=\"translate(20, 40)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M12.5 7.5H7.5V12.5H12.5V7.5Z\" fill=\"white\"/></g></g><g transform=\"translate(60, 40)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M12.5 7.5H7.5V12.5H12.5V7.5Z\" fill=\"white\"/></g></g><g transform=\"translate(60, 60)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M12.5 7.5H7.5V12.5H12.5V7.5Z\" fill=\"white\"/></g></g><g transform=\"translate(40, 60)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M12.5 7.5H7.5V12.5H12.5V7.5Z\" fill=\"white\"/></g></g><g transform=\"translate(20, 60)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M12.5 7.5H7.5V12.5H12.5V7.5Z\" fill=\"white\"/></g></g>"
+    },
+    {
+      "id": "primitive-1764113578714-c4f74436b26e5-p2",
+      "name": "p2-08",
+      "category": "block",
+      "placements": [
+        {
+          "x": 4,
+          "y": 2,
+          "atomType": "p2",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 2,
+          "y": 4,
+          "atomType": "p2",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 6,
+          "y": 4,
+          "atomType": "p2",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 4,
+          "y": 6,
+          "atomType": "p2",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        }
+      ],
+      "createdAt": 1764113578714,
+      "label": "p2-08",
+      "atomCategory": "atom-p2",
+      "tags": [
+        "block",
+        "p2",
+        "atom",
+        "atom-p2"
+      ],
+      "content": "<g transform=\"translate(40, 20)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M12.5 7.5H7.5V12.5H12.5V7.5Z\" fill=\"white\"/></g></g><g transform=\"translate(20, 40)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M12.5 7.5H7.5V12.5H12.5V7.5Z\" fill=\"white\"/></g></g><g transform=\"translate(60, 40)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M12.5 7.5H7.5V12.5H12.5V7.5Z\" fill=\"white\"/></g></g><g transform=\"translate(40, 60)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M12.5 7.5H7.5V12.5H12.5V7.5Z\" fill=\"white\"/></g></g>"
+    },
+    {
+      "id": "primitive-1764113630923-47030f28ca1328-p2",
+      "name": "p2-09",
+      "category": "block",
+      "placements": [
+        {
+          "x": 0,
+          "y": 0,
+          "atomType": "p2",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 2,
+          "y": 0,
+          "atomType": "p2",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 4,
+          "y": 2,
+          "atomType": "p2",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 6,
+          "y": 0,
+          "atomType": "p2",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 8,
+          "y": 0,
+          "atomType": "p2",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 0,
+          "y": 8,
+          "atomType": "p2",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 2,
+          "y": 8,
+          "atomType": "p2",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 4,
+          "y": 6,
+          "atomType": "p2",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 6,
+          "y": 8,
+          "atomType": "p2",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 8,
+          "y": 8,
+          "atomType": "p2",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 0,
+          "y": 4,
+          "atomType": "p2",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 8,
+          "y": 4,
+          "atomType": "p2",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 0,
+          "y": 2,
+          "atomType": "p2",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 8,
+          "y": 2,
+          "atomType": "p2",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 0,
+          "y": 6,
+          "atomType": "p2",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 8,
+          "y": 6,
+          "atomType": "p2",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        }
+      ],
+      "createdAt": 1764113630923,
+      "label": "p2-09",
+      "atomCategory": "atom-p2",
+      "tags": [
+        "block",
+        "p2",
+        "atom",
+        "atom-p2"
+      ],
+      "content": "<g transform=\"translate(0, 0)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M12.5 7.5H7.5V12.5H12.5V7.5Z\" fill=\"white\"/></g></g><g transform=\"translate(20, 0)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M12.5 7.5H7.5V12.5H12.5V7.5Z\" fill=\"white\"/></g></g><g transform=\"translate(40, 20)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M12.5 7.5H7.5V12.5H12.5V7.5Z\" fill=\"white\"/></g></g><g transform=\"translate(60, 0)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M12.5 7.5H7.5V12.5H12.5V7.5Z\" fill=\"white\"/></g></g><g transform=\"translate(80, 0)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M12.5 7.5H7.5V12.5H12.5V7.5Z\" fill=\"white\"/></g></g><g transform=\"translate(0, 80)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M12.5 7.5H7.5V12.5H12.5V7.5Z\" fill=\"white\"/></g></g><g transform=\"translate(20, 80)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M12.5 7.5H7.5V12.5H12.5V7.5Z\" fill=\"white\"/></g></g><g transform=\"translate(40, 60)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M12.5 7.5H7.5V12.5H12.5V7.5Z\" fill=\"white\"/></g></g><g transform=\"translate(60, 80)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M12.5 7.5H7.5V12.5H12.5V7.5Z\" fill=\"white\"/></g></g><g transform=\"translate(80, 80)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M12.5 7.5H7.5V12.5H12.5V7.5Z\" fill=\"white\"/></g></g><g transform=\"translate(0, 40)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M12.5 7.5H7.5V12.5H12.5V7.5Z\" fill=\"white\"/></g></g><g transform=\"translate(80, 40)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M12.5 7.5H7.5V12.5H12.5V7.5Z\" fill=\"white\"/></g></g><g transform=\"translate(0, 20)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M12.5 7.5H7.5V12.5H12.5V7.5Z\" fill=\"white\"/></g></g><g transform=\"translate(80, 20)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M12.5 7.5H7.5V12.5H12.5V7.5Z\" fill=\"white\"/></g></g><g transform=\"translate(0, 60)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M12.5 7.5H7.5V12.5H12.5V7.5Z\" fill=\"white\"/></g></g><g transform=\"translate(80, 60)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M12.5 7.5H7.5V12.5H12.5V7.5Z\" fill=\"white\"/></g></g>"
+    },
+    {
+      "id": "primitive-1764112244528-518242c2300cb-p3",
+      "name": "p3-01",
+      "category": "block",
+      "placements": [
+        {
+          "x": 2,
+          "y": 0,
+          "atomType": "p3",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 4,
+          "y": 0,
+          "atomType": "p3",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 6,
+          "y": 0,
+          "atomType": "p3",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 8,
+          "y": 2,
+          "atomType": "p3",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 8,
+          "y": 4,
+          "atomType": "p3",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 8,
+          "y": 6,
+          "atomType": "p3",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 0,
+          "y": 2,
+          "atomType": "p3",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 0,
+          "y": 4,
+          "atomType": "p3",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 0,
+          "y": 6,
+          "atomType": "p3",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 2,
+          "y": 8,
+          "atomType": "p3",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 4,
+          "y": 8,
+          "atomType": "p3",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 6,
+          "y": 8,
+          "atomType": "p3",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        }
+      ],
+      "createdAt": 1764112244528,
+      "label": "p3-01",
+      "atomCategory": "atom-p3",
+      "tags": [
+        "block",
+        "p3",
+        "atom",
+        "atom-p3"
+      ],
+      "content": "<g transform=\"translate(20, 0)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M13.75 6.25H6.25V13.75H13.75V6.25Z\" fill=\"white\"/></g></g><g transform=\"translate(40, 0)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M13.75 6.25H6.25V13.75H13.75V6.25Z\" fill=\"white\"/></g></g><g transform=\"translate(60, 0)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M13.75 6.25H6.25V13.75H13.75V6.25Z\" fill=\"white\"/></g></g><g transform=\"translate(80, 20)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M13.75 6.25H6.25V13.75H13.75V6.25Z\" fill=\"white\"/></g></g><g transform=\"translate(80, 40)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M13.75 6.25H6.25V13.75H13.75V6.25Z\" fill=\"white\"/></g></g><g transform=\"translate(80, 60)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M13.75 6.25H6.25V13.75H13.75V6.25Z\" fill=\"white\"/></g></g><g transform=\"translate(0, 20)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M13.75 6.25H6.25V13.75H13.75V6.25Z\" fill=\"white\"/></g></g><g transform=\"translate(0, 40)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M13.75 6.25H6.25V13.75H13.75V6.25Z\" fill=\"white\"/></g></g><g transform=\"translate(0, 60)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M13.75 6.25H6.25V13.75H13.75V6.25Z\" fill=\"white\"/></g></g><g transform=\"translate(20, 80)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M13.75 6.25H6.25V13.75H13.75V6.25Z\" fill=\"white\"/></g></g><g transform=\"translate(40, 80)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M13.75 6.25H6.25V13.75H13.75V6.25Z\" fill=\"white\"/></g></g><g transform=\"translate(60, 80)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M13.75 6.25H6.25V13.75H13.75V6.25Z\" fill=\"white\"/></g></g>"
+    },
+    {
+      "id": "primitive-1764113221725-660e80a90564-p3",
+      "name": "p3-04",
+      "category": "block",
+      "placements": [
+        {
+          "x": 4,
+          "y": 0,
+          "atomType": "p3",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 4,
+          "y": 2,
+          "atomType": "p3",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 6,
+          "y": 4,
+          "atomType": "p3",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 8,
+          "y": 4,
+          "atomType": "p3",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 0,
+          "y": 4,
+          "atomType": "p3",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 2,
+          "y": 4,
+          "atomType": "p3",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 4,
+          "y": 6,
+          "atomType": "p3",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 4,
+          "y": 8,
+          "atomType": "p3",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        }
+      ],
+      "createdAt": 1764113221725,
+      "label": "p3-04",
+      "atomCategory": "atom-p3",
+      "tags": [
+        "block",
+        "p3",
+        "atom",
+        "atom-p3"
+      ],
+      "content": "<g transform=\"translate(40, 0)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M13.75 6.25H6.25V13.75H13.75V6.25Z\" fill=\"white\"/></g></g><g transform=\"translate(40, 20)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M13.75 6.25H6.25V13.75H13.75V6.25Z\" fill=\"white\"/></g></g><g transform=\"translate(60, 40)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M13.75 6.25H6.25V13.75H13.75V6.25Z\" fill=\"white\"/></g></g><g transform=\"translate(80, 40)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M13.75 6.25H6.25V13.75H13.75V6.25Z\" fill=\"white\"/></g></g><g transform=\"translate(0, 40)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M13.75 6.25H6.25V13.75H13.75V6.25Z\" fill=\"white\"/></g></g><g transform=\"translate(20, 40)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M13.75 6.25H6.25V13.75H13.75V6.25Z\" fill=\"white\"/></g></g><g transform=\"translate(40, 60)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M13.75 6.25H6.25V13.75H13.75V6.25Z\" fill=\"white\"/></g></g><g transform=\"translate(40, 80)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M13.75 6.25H6.25V13.75H13.75V6.25Z\" fill=\"white\"/></g></g>"
+    },
+    {
+      "id": "primitive-1764113234569-bcca151d238fe8-p3",
+      "name": "p3-05",
+      "category": "block",
+      "placements": [
+        {
+          "x": 4,
+          "y": 4,
+          "atomType": "p3",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        }
+      ],
+      "createdAt": 1764113234569,
+      "label": "p3-05",
+      "atomCategory": "atom-p3",
+      "tags": [
+        "block",
+        "p3",
+        "atom",
+        "atom-p3"
+      ],
+      "content": "<g transform=\"translate(40, 40)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M13.75 6.25H6.25V13.75H13.75V6.25Z\" fill=\"white\"/></g></g>"
+    },
+    {
+      "id": "primitive-1764113251305-16586fb5c2d1c8-p3",
+      "name": "p3-06",
+      "category": "block",
+      "placements": [
+        {
+          "x": 2,
+          "y": 2,
+          "atomType": "p3",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 6,
+          "y": 2,
+          "atomType": "p3",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 2,
+          "y": 6,
+          "atomType": "p3",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 6,
+          "y": 6,
+          "atomType": "p3",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        }
+      ],
+      "createdAt": 1764113251305,
+      "label": "p3-06",
+      "atomCategory": "atom-p3",
+      "tags": [
+        "block",
+        "p3",
+        "atom",
+        "atom-p3"
+      ],
+      "content": "<g transform=\"translate(20, 20)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M13.75 6.25H6.25V13.75H13.75V6.25Z\" fill=\"white\"/></g></g><g transform=\"translate(60, 20)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M13.75 6.25H6.25V13.75H13.75V6.25Z\" fill=\"white\"/></g></g><g transform=\"translate(20, 60)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M13.75 6.25H6.25V13.75H13.75V6.25Z\" fill=\"white\"/></g></g><g transform=\"translate(60, 60)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M13.75 6.25H6.25V13.75H13.75V6.25Z\" fill=\"white\"/></g></g>"
+    },
+    {
+      "id": "primitive-1764113281246-8256483a96b24-p3",
+      "name": "p3-07",
+      "category": "block",
+      "placements": [
+        {
+          "x": 2,
+          "y": 2,
+          "atomType": "p3",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 4,
+          "y": 2,
+          "atomType": "p3",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 6,
+          "y": 2,
+          "atomType": "p3",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 2,
+          "y": 4,
+          "atomType": "p3",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 6,
+          "y": 4,
+          "atomType": "p3",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 6,
+          "y": 6,
+          "atomType": "p3",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 4,
+          "y": 6,
+          "atomType": "p3",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 2,
+          "y": 6,
+          "atomType": "p3",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        }
+      ],
+      "createdAt": 1764113281246,
+      "label": "p3-07",
+      "atomCategory": "atom-p3",
+      "tags": [
+        "block",
+        "p3",
+        "atom",
+        "atom-p3"
+      ],
+      "content": "<g transform=\"translate(20, 20)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M13.75 6.25H6.25V13.75H13.75V6.25Z\" fill=\"white\"/></g></g><g transform=\"translate(40, 20)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M13.75 6.25H6.25V13.75H13.75V6.25Z\" fill=\"white\"/></g></g><g transform=\"translate(60, 20)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M13.75 6.25H6.25V13.75H13.75V6.25Z\" fill=\"white\"/></g></g><g transform=\"translate(20, 40)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M13.75 6.25H6.25V13.75H13.75V6.25Z\" fill=\"white\"/></g></g><g transform=\"translate(60, 40)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M13.75 6.25H6.25V13.75H13.75V6.25Z\" fill=\"white\"/></g></g><g transform=\"translate(60, 60)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M13.75 6.25H6.25V13.75H13.75V6.25Z\" fill=\"white\"/></g></g><g transform=\"translate(40, 60)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M13.75 6.25H6.25V13.75H13.75V6.25Z\" fill=\"white\"/></g></g><g transform=\"translate(20, 60)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M13.75 6.25H6.25V13.75H13.75V6.25Z\" fill=\"white\"/></g></g>"
+    },
+    {
+      "id": "primitive-1764113578714-c4f74436b26e5-p3",
+      "name": "p3-08",
+      "category": "block",
+      "placements": [
+        {
+          "x": 4,
+          "y": 2,
+          "atomType": "p3",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 2,
+          "y": 4,
+          "atomType": "p3",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 6,
+          "y": 4,
+          "atomType": "p3",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 4,
+          "y": 6,
+          "atomType": "p3",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        }
+      ],
+      "createdAt": 1764113578714,
+      "label": "p3-08",
+      "atomCategory": "atom-p3",
+      "tags": [
+        "block",
+        "p3",
+        "atom",
+        "atom-p3"
+      ],
+      "content": "<g transform=\"translate(40, 20)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M13.75 6.25H6.25V13.75H13.75V6.25Z\" fill=\"white\"/></g></g><g transform=\"translate(20, 40)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M13.75 6.25H6.25V13.75H13.75V6.25Z\" fill=\"white\"/></g></g><g transform=\"translate(60, 40)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M13.75 6.25H6.25V13.75H13.75V6.25Z\" fill=\"white\"/></g></g><g transform=\"translate(40, 60)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M13.75 6.25H6.25V13.75H13.75V6.25Z\" fill=\"white\"/></g></g>"
+    },
+    {
+      "id": "primitive-1764113630923-47030f28ca1328-p3",
+      "name": "p3-09",
+      "category": "block",
+      "placements": [
+        {
+          "x": 0,
+          "y": 0,
+          "atomType": "p3",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 2,
+          "y": 0,
+          "atomType": "p3",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 4,
+          "y": 2,
+          "atomType": "p3",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 6,
+          "y": 0,
+          "atomType": "p3",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 8,
+          "y": 0,
+          "atomType": "p3",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 0,
+          "y": 8,
+          "atomType": "p3",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 2,
+          "y": 8,
+          "atomType": "p3",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 4,
+          "y": 6,
+          "atomType": "p3",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 6,
+          "y": 8,
+          "atomType": "p3",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 8,
+          "y": 8,
+          "atomType": "p3",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 0,
+          "y": 4,
+          "atomType": "p3",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 8,
+          "y": 4,
+          "atomType": "p3",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 0,
+          "y": 2,
+          "atomType": "p3",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 8,
+          "y": 2,
+          "atomType": "p3",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 0,
+          "y": 6,
+          "atomType": "p3",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 8,
+          "y": 6,
+          "atomType": "p3",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        }
+      ],
+      "createdAt": 1764113630923,
+      "label": "p3-09",
+      "atomCategory": "atom-p3",
+      "tags": [
+        "block",
+        "p3",
+        "atom",
+        "atom-p3"
+      ],
+      "content": "<g transform=\"translate(0, 0)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M13.75 6.25H6.25V13.75H13.75V6.25Z\" fill=\"white\"/></g></g><g transform=\"translate(20, 0)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M13.75 6.25H6.25V13.75H13.75V6.25Z\" fill=\"white\"/></g></g><g transform=\"translate(40, 20)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M13.75 6.25H6.25V13.75H13.75V6.25Z\" fill=\"white\"/></g></g><g transform=\"translate(60, 0)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M13.75 6.25H6.25V13.75H13.75V6.25Z\" fill=\"white\"/></g></g><g transform=\"translate(80, 0)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M13.75 6.25H6.25V13.75H13.75V6.25Z\" fill=\"white\"/></g></g><g transform=\"translate(0, 80)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M13.75 6.25H6.25V13.75H13.75V6.25Z\" fill=\"white\"/></g></g><g transform=\"translate(20, 80)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M13.75 6.25H6.25V13.75H13.75V6.25Z\" fill=\"white\"/></g></g><g transform=\"translate(40, 60)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M13.75 6.25H6.25V13.75H13.75V6.25Z\" fill=\"white\"/></g></g><g transform=\"translate(60, 80)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M13.75 6.25H6.25V13.75H13.75V6.25Z\" fill=\"white\"/></g></g><g transform=\"translate(80, 80)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M13.75 6.25H6.25V13.75H13.75V6.25Z\" fill=\"white\"/></g></g><g transform=\"translate(0, 40)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M13.75 6.25H6.25V13.75H13.75V6.25Z\" fill=\"white\"/></g></g><g transform=\"translate(80, 40)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M13.75 6.25H6.25V13.75H13.75V6.25Z\" fill=\"white\"/></g></g><g transform=\"translate(0, 20)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M13.75 6.25H6.25V13.75H13.75V6.25Z\" fill=\"white\"/></g></g><g transform=\"translate(80, 20)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M13.75 6.25H6.25V13.75H13.75V6.25Z\" fill=\"white\"/></g></g><g transform=\"translate(0, 60)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M13.75 6.25H6.25V13.75H13.75V6.25Z\" fill=\"white\"/></g></g><g transform=\"translate(80, 60)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M13.75 6.25H6.25V13.75H13.75V6.25Z\" fill=\"white\"/></g></g>"
+    },
+    {
+      "id": "primitive-1764114210925-9d42777274951-p3",
+      "name": "p3-bridge-1",
+      "category": "block",
+      "placements": [
+        {
+          "x": 4,
+          "y": 4,
+          "atomType": "p3",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 0,
+          "y": 4,
+          "atomType": "p3",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 2,
+          "y": 4,
+          "atomType": "p3",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 6,
+          "y": 4,
+          "atomType": "p3",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 8,
+          "y": 4,
+          "atomType": "p3",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        }
+      ],
+      "createdAt": 1764114210926,
+      "label": "p3-bridge-1",
+      "atomCategory": "atom-p3",
+      "tags": [
+        "block",
+        "p3",
+        "atom",
+        "atom-p3"
+      ],
+      "content": "<g transform=\"translate(40, 40)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M13.75 6.25H6.25V13.75H13.75V6.25Z\" fill=\"white\"/></g></g><g transform=\"translate(0, 40)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M13.75 6.25H6.25V13.75H13.75V6.25Z\" fill=\"white\"/></g></g><g transform=\"translate(20, 40)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M13.75 6.25H6.25V13.75H13.75V6.25Z\" fill=\"white\"/></g></g><g transform=\"translate(60, 40)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M13.75 6.25H6.25V13.75H13.75V6.25Z\" fill=\"white\"/></g></g><g transform=\"translate(80, 40)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M13.75 6.25H6.25V13.75H13.75V6.25Z\" fill=\"white\"/></g></g>"
+    },
+    {
+      "id": "primitive-1764114220823-fc18bed905eda8-p3",
+      "name": "p3-bridge-2",
+      "category": "block",
+      "placements": [
+        {
+          "x": 4,
+          "y": 0,
+          "atomType": "p3",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 4,
+          "y": 2,
+          "atomType": "p3",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 4,
+          "y": 4,
+          "atomType": "p3",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 4,
+          "y": 6,
+          "atomType": "p3",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 4,
+          "y": 8,
+          "atomType": "p3",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        }
+      ],
+      "createdAt": 1764114220823,
+      "label": "p3-bridge-2",
+      "atomCategory": "atom-p3",
+      "tags": [
+        "block",
+        "p3",
+        "atom",
+        "atom-p3"
+      ],
+      "content": "<g transform=\"translate(40, 0)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M13.75 6.25H6.25V13.75H13.75V6.25Z\" fill=\"white\"/></g></g><g transform=\"translate(40, 20)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M13.75 6.25H6.25V13.75H13.75V6.25Z\" fill=\"white\"/></g></g><g transform=\"translate(40, 40)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M13.75 6.25H6.25V13.75H13.75V6.25Z\" fill=\"white\"/></g></g><g transform=\"translate(40, 60)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M13.75 6.25H6.25V13.75H13.75V6.25Z\" fill=\"white\"/></g></g><g transform=\"translate(40, 80)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M13.75 6.25H6.25V13.75H13.75V6.25Z\" fill=\"white\"/></g></g>"
+    },
+    {
+      "id": "primitive-1764185459406-97eaa04355e24",
+      "name": "p4-1",
+      "category": "block",
+      "placements": [
+        {
+          "x": 8,
+          "y": 0,
+          "atomType": "p4",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 0,
+          "y": 0,
+          "atomType": "p4",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 2,
+          "y": 2,
+          "atomType": "p4",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 4,
+          "y": 2,
+          "atomType": "p4",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 6,
+          "y": 2,
+          "atomType": "p4",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 2,
+          "y": 4,
+          "atomType": "p4",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 6,
+          "y": 4,
+          "atomType": "p4",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 2,
+          "y": 6,
+          "atomType": "p4",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 6,
+          "y": 6,
+          "atomType": "p4",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 0,
+          "y": 8,
+          "atomType": "p4",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 8,
+          "y": 8,
+          "atomType": "p4",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 4,
+          "y": 6,
+          "atomType": "p4",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        }
+      ],
+      "createdAt": 1764185459406,
+      "label": "p4-1",
+      "atomCategory": "atom-p4",
+      "tags": [
+        "atom-p4",
+        "p4",
+        "atom",
+        "block"
+      ],
+      "content": "<g transform=\"translate(80, 0)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M15 5H5V15H15V5Z\" fill=\"white\"/></g></g><g transform=\"translate(0, 0)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M15 5H5V15H15V5Z\" fill=\"white\"/></g></g><g transform=\"translate(20, 20)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M15 5H5V15H15V5Z\" fill=\"white\"/></g></g><g transform=\"translate(40, 20)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M15 5H5V15H15V5Z\" fill=\"white\"/></g></g><g transform=\"translate(60, 20)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M15 5H5V15H15V5Z\" fill=\"white\"/></g></g><g transform=\"translate(20, 40)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M15 5H5V15H15V5Z\" fill=\"white\"/></g></g><g transform=\"translate(60, 40)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M15 5H5V15H15V5Z\" fill=\"white\"/></g></g><g transform=\"translate(20, 60)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M15 5H5V15H15V5Z\" fill=\"white\"/></g></g><g transform=\"translate(60, 60)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M15 5H5V15H15V5Z\" fill=\"white\"/></g></g><g transform=\"translate(0, 80)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M15 5H5V15H15V5Z\" fill=\"white\"/></g></g><g transform=\"translate(80, 80)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M15 5H5V15H15V5Z\" fill=\"white\"/></g></g><g transform=\"translate(40, 60)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M15 5H5V15H15V5Z\" fill=\"white\"/></g></g>"
+    },
+    {
+      "id": "primitive-1764185767497-7d9dfba0a72bb8",
+      "name": "p4-3 - bridge",
+      "category": "block",
+      "placements": [
+        {
+          "x": 0,
+          "y": 4,
+          "atomType": "p4",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 2,
+          "y": 4,
+          "atomType": "p4",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 4,
+          "y": 4,
+          "atomType": "p4",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 6,
+          "y": 4,
+          "atomType": "p4",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 8,
+          "y": 4,
+          "atomType": "p4",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        }
+      ],
+      "createdAt": 1764185767497,
+      "label": "p4-3 - bridge",
+      "atomCategory": "atom-p4",
+      "tags": [
+        "atom-p4",
+        "p4",
+        "atom",
+        "block"
+      ],
+      "content": "<g transform=\"translate(0, 40)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M15 5H5V15H15V5Z\" fill=\"white\"/></g></g><g transform=\"translate(20, 40)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M15 5H5V15H15V5Z\" fill=\"white\"/></g></g><g transform=\"translate(40, 40)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M15 5H5V15H15V5Z\" fill=\"white\"/></g></g><g transform=\"translate(60, 40)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M15 5H5V15H15V5Z\" fill=\"white\"/></g></g><g transform=\"translate(80, 40)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M15 5H5V15H15V5Z\" fill=\"white\"/></g></g>"
+    },
+    {
+      "id": "primitive-1764113221725-660e80a90564-p4",
+      "name": "p4-04",
+      "category": "block",
+      "placements": [
+        {
+          "x": 4,
+          "y": 0,
+          "atomType": "p4",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 4,
+          "y": 2,
+          "atomType": "p4",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 6,
+          "y": 4,
+          "atomType": "p4",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 8,
+          "y": 4,
+          "atomType": "p4",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 0,
+          "y": 4,
+          "atomType": "p4",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 2,
+          "y": 4,
+          "atomType": "p4",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 4,
+          "y": 6,
+          "atomType": "p4",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 4,
+          "y": 8,
+          "atomType": "p4",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        }
+      ],
+      "createdAt": 1764113221725,
+      "label": "p4-04",
+      "atomCategory": "atom-p4",
+      "tags": [
+        "block",
+        "p4",
+        "atom",
+        "atom-p4"
+      ],
+      "content": "<g transform=\"translate(40, 0)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M15 5H5V15H15V5Z\" fill=\"white\"/></g></g><g transform=\"translate(40, 20)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M15 5H5V15H15V5Z\" fill=\"white\"/></g></g><g transform=\"translate(60, 40)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M15 5H5V15H15V5Z\" fill=\"white\"/></g></g><g transform=\"translate(80, 40)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M15 5H5V15H15V5Z\" fill=\"white\"/></g></g><g transform=\"translate(0, 40)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M15 5H5V15H15V5Z\" fill=\"white\"/></g></g><g transform=\"translate(20, 40)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M15 5H5V15H15V5Z\" fill=\"white\"/></g></g><g transform=\"translate(40, 60)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M15 5H5V15H15V5Z\" fill=\"white\"/></g></g><g transform=\"translate(40, 80)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M15 5H5V15H15V5Z\" fill=\"white\"/></g></g>"
+    },
+    {
+      "id": "primitive-1764185794130-86d2cc101f95e",
+      "name": "p4-4 - bridge2",
+      "category": "block",
+      "placements": [
+        {
+          "x": 4,
+          "y": 0,
+          "atomType": "p4",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 4,
+          "y": 2,
+          "atomType": "p4",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 4,
+          "y": 6,
+          "atomType": "p4",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 4,
+          "y": 8,
+          "atomType": "p4",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 4,
+          "y": 4,
+          "atomType": "p4",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        }
+      ],
+      "createdAt": 1764185794130,
+      "label": "p4-4 - bridge2",
+      "atomCategory": "atom-p4",
+      "tags": [
+        "atom-p4",
+        "p4",
+        "atom",
+        "block"
+      ],
+      "content": "<g transform=\"translate(40, 0)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M15 5H5V15H15V5Z\" fill=\"white\"/></g></g><g transform=\"translate(40, 20)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M15 5H5V15H15V5Z\" fill=\"white\"/></g></g><g transform=\"translate(40, 60)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M15 5H5V15H15V5Z\" fill=\"white\"/></g></g><g transform=\"translate(40, 80)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M15 5H5V15H15V5Z\" fill=\"white\"/></g></g><g transform=\"translate(40, 40)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M15 5H5V15H15V5Z\" fill=\"white\"/></g></g>"
+    },
+    {
+      "id": "primitive-1764113234569-bcca151d238fe8-p4",
+      "name": "p4-05",
+      "category": "block",
+      "placements": [
+        {
+          "x": 4,
+          "y": 4,
+          "atomType": "p4",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        }
+      ],
+      "createdAt": 1764113234569,
+      "label": "p4-05",
+      "atomCategory": "atom-p4",
+      "tags": [
+        "block",
+        "p4",
+        "atom",
+        "atom-p4"
+      ],
+      "content": "<g transform=\"translate(40, 40)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M15 5H5V15H15V5Z\" fill=\"white\"/></g></g>"
+    },
+    {
+      "id": "primitive-1764113251305-16586fb5c2d1c8-p4",
+      "name": "p4-06",
+      "category": "block",
+      "placements": [
+        {
+          "x": 2,
+          "y": 2,
+          "atomType": "p4",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 6,
+          "y": 2,
+          "atomType": "p4",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 2,
+          "y": 6,
+          "atomType": "p4",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 6,
+          "y": 6,
+          "atomType": "p4",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        }
+      ],
+      "createdAt": 1764113251305,
+      "label": "p4-06",
+      "atomCategory": "atom-p4",
+      "tags": [
+        "block",
+        "p4",
+        "atom",
+        "atom-p4"
+      ],
+      "content": "<g transform=\"translate(20, 20)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M15 5H5V15H15V5Z\" fill=\"white\"/></g></g><g transform=\"translate(60, 20)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M15 5H5V15H15V5Z\" fill=\"white\"/></g></g><g transform=\"translate(20, 60)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M15 5H5V15H15V5Z\" fill=\"white\"/></g></g><g transform=\"translate(60, 60)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M15 5H5V15H15V5Z\" fill=\"white\"/></g></g>"
+    },
+    {
+      "id": "primitive-1764113281246-8256483a96b24-p4",
+      "name": "p4-07",
+      "category": "block",
+      "placements": [
+        {
+          "x": 2,
+          "y": 2,
+          "atomType": "p4",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 4,
+          "y": 2,
+          "atomType": "p4",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 6,
+          "y": 2,
+          "atomType": "p4",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 2,
+          "y": 4,
+          "atomType": "p4",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 6,
+          "y": 4,
+          "atomType": "p4",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 6,
+          "y": 6,
+          "atomType": "p4",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 4,
+          "y": 6,
+          "atomType": "p4",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 2,
+          "y": 6,
+          "atomType": "p4",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        }
+      ],
+      "createdAt": 1764113281246,
+      "label": "p4-07",
+      "atomCategory": "atom-p4",
+      "tags": [
+        "block",
+        "p4",
+        "atom",
+        "atom-p4"
+      ],
+      "content": "<g transform=\"translate(20, 20)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M15 5H5V15H15V5Z\" fill=\"white\"/></g></g><g transform=\"translate(40, 20)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M15 5H5V15H15V5Z\" fill=\"white\"/></g></g><g transform=\"translate(60, 20)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M15 5H5V15H15V5Z\" fill=\"white\"/></g></g><g transform=\"translate(20, 40)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M15 5H5V15H15V5Z\" fill=\"white\"/></g></g><g transform=\"translate(60, 40)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M15 5H5V15H15V5Z\" fill=\"white\"/></g></g><g transform=\"translate(60, 60)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M15 5H5V15H15V5Z\" fill=\"white\"/></g></g><g transform=\"translate(40, 60)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M15 5H5V15H15V5Z\" fill=\"white\"/></g></g><g transform=\"translate(20, 60)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M15 5H5V15H15V5Z\" fill=\"white\"/></g></g>"
+    },
+    {
+      "id": "primitive-1764113578714-c4f74436b26e5-p4",
+      "name": "p4-08",
+      "category": "block",
+      "placements": [
+        {
+          "x": 4,
+          "y": 2,
+          "atomType": "p4",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 2,
+          "y": 4,
+          "atomType": "p4",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 6,
+          "y": 4,
+          "atomType": "p4",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 4,
+          "y": 6,
+          "atomType": "p4",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        }
+      ],
+      "createdAt": 1764113578714,
+      "label": "p4-08",
+      "atomCategory": "atom-p4",
+      "tags": [
+        "block",
+        "p4",
+        "atom",
+        "atom-p4"
+      ],
+      "content": "<g transform=\"translate(40, 20)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M15 5H5V15H15V5Z\" fill=\"white\"/></g></g><g transform=\"translate(20, 40)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M15 5H5V15H15V5Z\" fill=\"white\"/></g></g><g transform=\"translate(60, 40)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M15 5H5V15H15V5Z\" fill=\"white\"/></g></g><g transform=\"translate(40, 60)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M15 5H5V15H15V5Z\" fill=\"white\"/></g></g>"
+    },
+    {
+      "id": "primitive-1764185553928-ed740ba4b88b08",
+      "name": "pr-2",
+      "category": "block",
+      "placements": [
+        {
+          "x": 2,
+          "y": 0,
+          "atomType": "p4",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 4,
+          "y": 0,
+          "atomType": "p4",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 6,
+          "y": 0,
+          "atomType": "p4",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 8,
+          "y": 2,
+          "atomType": "p4",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 8,
+          "y": 4,
+          "atomType": "p4",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 8,
+          "y": 6,
+          "atomType": "p4",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 0,
+          "y": 2,
+          "atomType": "p4",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 0,
+          "y": 4,
+          "atomType": "p4",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 0,
+          "y": 6,
+          "atomType": "p4",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 2,
+          "y": 8,
+          "atomType": "p4",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 4,
+          "y": 8,
+          "atomType": "p4",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        },
+        {
+          "x": 6,
+          "y": 8,
+          "atomType": "p4",
+          "shape": "atom",
+          "rotation": 0,
+          "scale": 1,
+          "color": null
+        }
+      ],
+      "createdAt": 1764185553928,
+      "label": "pr-2",
+      "atomCategory": "atom-p4",
+      "tags": [
+        "atom-p4",
+        "p4",
+        "atom",
+        "block"
+      ],
+      "content": "<g transform=\"translate(20, 0)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M15 5H5V15H15V5Z\" fill=\"white\"/></g></g><g transform=\"translate(40, 0)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M15 5H5V15H15V5Z\" fill=\"white\"/></g></g><g transform=\"translate(60, 0)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M15 5H5V15H15V5Z\" fill=\"white\"/></g></g><g transform=\"translate(80, 20)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M15 5H5V15H15V5Z\" fill=\"white\"/></g></g><g transform=\"translate(80, 40)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M15 5H5V15H15V5Z\" fill=\"white\"/></g></g><g transform=\"translate(80, 60)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M15 5H5V15H15V5Z\" fill=\"white\"/></g></g><g transform=\"translate(0, 20)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M15 5H5V15H15V5Z\" fill=\"white\"/></g></g><g transform=\"translate(0, 40)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M15 5H5V15H15V5Z\" fill=\"white\"/></g></g><g transform=\"translate(0, 60)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M15 5H5V15H15V5Z\" fill=\"white\"/></g></g><g transform=\"translate(20, 80)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M15 5H5V15H15V5Z\" fill=\"white\"/></g></g><g transform=\"translate(40, 80)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M15 5H5V15H15V5Z\" fill=\"white\"/></g></g><g transform=\"translate(60, 80)\"><g transform=\"scale(1)\"><path d=\"M20 0H0V20H20V0Z\" fill=\"black\"/>\n                    <path d=\"M15 5H5V15H15V5Z\" fill=\"white\"/></g></g>"
+    },
+    {
+      "id": "primitive-1764120627569-fbcddfdb6553c",
+      "name": "c1",
+      "category": "circle",
+      "placements": [
+        {
+          "x": 4.5,
+          "y": 4.5,
+          "atomType": null,
+          "shape": "circle-c1",
+          "rotation": 0,
+          "scale": 1,
+          "color": "black"
+        }
+      ],
+      "createdAt": 1764120627569,
+      "label": "c1",
+      "atomCategory": null,
+      "tags": [
+        "circle",
+        "circle-c1"
+      ],
+      "content": "<g transform=\"translate(45, 45)\"><g transform=\"scale(0.5)\"><circle cx=\"10\" cy=\"10\" r=\"10\" fill=\"black\"/></g></g>"
+    },
+    {
+      "id": "primitive-1764135457559-5a872780c0c458",
+      "name": "c2",
+      "category": "circle",
+      "placements": [
+        {
+          "x": 4.5,
+          "y": 4.5,
+          "atomType": null,
+          "shape": "circle-c2",
+          "rotation": 0,
+          "scale": 1,
+          "color": "black"
+        }
+      ],
+      "createdAt": 1764135457560,
+      "label": "c2",
+      "atomCategory": null,
+      "tags": [
+        "circle",
+        "circle-c2"
+      ],
+      "content": "<g transform=\"translate(40, 40)\"><g transform=\"scale(1)\"><circle cx=\"10\" cy=\"10\" r=\"10\" fill=\"black\"/></g></g>"
+    },
+    {
+      "id": "primitive-1764135465502-6943b0111b6488",
+      "name": "c3",
+      "category": "circle",
+      "placements": [
+        {
+          "x": 4.5,
+          "y": 4.5,
+          "atomType": null,
+          "shape": "circle-c3",
+          "rotation": 0,
+          "scale": 1,
+          "color": "black"
+        }
+      ],
+      "createdAt": 1764135465502,
+      "label": "c3",
+      "atomCategory": null,
+      "tags": [
+        "circle",
+        "circle-c3"
+      ],
+      "content": "<g transform=\"translate(30, 30)\"><g transform=\"scale(2)\"><circle cx=\"10\" cy=\"10\" r=\"10\" fill=\"black\"/></g></g>"
+    },
+    {
+      "id": "primitive-1764135472497-22f00a91f83478",
+      "name": "c4",
+      "category": "circle",
+      "placements": [
+        {
+          "x": 4.5,
+          "y": 4.5,
+          "atomType": null,
+          "shape": "circle-c4",
+          "rotation": 0,
+          "scale": 1,
+          "color": "black"
+        }
+      ],
+      "createdAt": 1764135472497,
+      "label": "c4",
+      "atomCategory": null,
+      "tags": [
+        "circle",
+        "circle-c4"
+      ],
+      "content": "<g transform=\"translate(20, 20)\"><g transform=\"scale(3)\"><circle cx=\"10\" cy=\"10\" r=\"10\" fill=\"black\"/></g></g>"
+    }
+  ]
+}
