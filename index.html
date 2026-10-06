@@ -747,6 +747,14 @@
             margin-bottom: 0.5rem;
         }
 
+        .presets-actions .btn {
+            width: 100%;
+        }
+
+        .preset-list {
+            max-height: 28vh;
+        }
+
         .setting-input {
             width: 100%;
             padding: 0.5rem;
@@ -1362,6 +1370,12 @@
         <div class="presets-panel">
             <div class="presets-header">Formation Archive</div>
             <div class="presets-body">
+                <div class="presets-actions">
+                    <label class="control-label" for="settingName">Preset</label>
+                    <input type="text" id="settingName" class="setting-input" placeholder="Preset name">
+                    <button id="saveSettingBtn" class="btn btn-primary" type="button">Save Preset</button>
+                </div>
+                <div id="savedSettingsList" class="settings-list preset-list"></div>
                 <div class="formation-archive-card">
                     <div class="formation-archive-header">
                         <div class="formation-archive-title">Formation Archive</div>
@@ -8769,62 +8783,58 @@ function getAtomContent(atomType = 'p1') {
             // Settings management functions
             function setupSettingsManagement() {
                 const saveSettingBtn = document.getElementById('saveSettingBtn');
-                const clearSettingsBtn = document.getElementById('clearSettingsBtn');
-                const copyPresetsBtn = document.getElementById('copyPresetsBtn');
-                const importPresetsBtn = document.getElementById('importPresetsBtn');
                 const settingNameInput = document.getElementById('settingName');
                 const savedSettingsList = document.getElementById('savedSettingsList');
                 
-                if (!saveSettingBtn || !clearSettingsBtn || !settingNameInput || !savedSettingsList) {
+                if (!saveSettingBtn || !settingNameInput || !savedSettingsList) {
                     console.warn('Settings management elements not found');
                     return;
                 }
                 
-                // Load saved settings on startup
                 loadSavedSettings();
-                
-                // Save current settings
-                saveSettingBtn.onclick = function() {
+
+                const saveCurrentPreset = () => {
                     const name = settingNameInput.value.trim() || `Preset ${new Date().toLocaleString()}`;
                     saveSettings(name);
                     settingNameInput.value = '';
                 };
                 
-                // Clear all settings
-                clearSettingsBtn.onclick = function() {
-                    if (confirm('Are you sure you want to delete all saved settings?')) {
-                        writePresetStorage([]);
-                        loadSavedSettings(); // Refresh the list (will be empty)
+                saveSettingBtn.onclick = saveCurrentPreset;
+                settingNameInput.addEventListener('keydown', (event) => {
+                    if (event.key === 'Enter') {
+                        event.preventDefault();
+                        saveCurrentPreset();
                     }
-                };
-                
-                // Copy all presets
-                if (copyPresetsBtn) {
-                    copyPresetsBtn.onclick = exportPresets;
-                }
-                if (importPresetsBtn) {
-                    importPresetsBtn.onclick = importPresetsFromPrompt;
-                }
+                });
             }
             
-            // Save current settings to localStorage
             function saveSettings(name) {
-                // Get existing settings or initialize empty array
                 const savedSettings = readPresetStorage();
-                
-                // Create new setting object
-                const newSetting = {
-                    id: Date.now(), // Use timestamp as unique ID
-                    name: name,
-                    controls: { ...controls } // Clone current controls
-                };
-                
-                // Add to array and save back to localStorage
-                savedSettings.push(newSetting);
+                const snapshot = JSON.parse(JSON.stringify(controls));
+                const existing = savedSettings.find(setting => (setting.name || '').toLowerCase() === name.toLowerCase());
+
+                if (existing) {
+                    existing.name = name;
+                    existing.controls = snapshot;
+                } else {
+                    savedSettings.push({
+                        id: Date.now(),
+                        name: name,
+                        controls: snapshot
+                    });
+                }
+
                 writePresetStorage(savedSettings);
-                
-                // Refresh the settings list
                 loadSavedSettings();
+
+                copyMessage.textContent = `Saved preset: ${name}`;
+                copyMessage.style.display = 'block';
+                if (copyMessageTimeout) {
+                    clearTimeout(copyMessageTimeout);
+                }
+                copyMessageTimeout = setTimeout(() => {
+                    copyMessage.style.display = 'none';
+                }, 2000);
             }
             
             // Load and display saved settings
@@ -8839,7 +8849,7 @@ function getAtomContent(atomType = 'p1') {
                 savedSettingsList.innerHTML = '';
                 
                 if (savedSettings.length === 0) {
-                    savedSettingsList.innerHTML = '<div class="setting-item">No saved settings yet</div>';
+                    savedSettingsList.innerHTML = '<div class="setting-item">No presets saved yet</div>';
                     return;
                 }
                 
@@ -9114,7 +9124,7 @@ function getAtomContent(atomType = 'p1') {
             
             // Delete a specific setting
             function deleteSetting(id) {
-                if (confirm('Are you sure you want to delete this setting?')) {
+                if (confirm('Delete this preset?')) {
                     const savedSettings = readPresetStorage();
                     const updatedSettings = savedSettings.filter(s => s.id !== id);
                     writePresetStorage(updatedSettings);
@@ -9807,6 +9817,7 @@ function getAtomContent(atomType = 'p1') {
 
             // Initialize the app
             setupControlListeners();
+            setupSettingsManagement();
             setupPrimitiveChanceSliders();
             renderFormationArchive();
             updateControlDisplays();
